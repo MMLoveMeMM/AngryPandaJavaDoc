@@ -14,13 +14,14 @@ package cn.pumpkin.angrypandajavadoc.utils;
  */
 
 /**
+ * The type Tools.
+ *
  * @author: zhibao.Liu
  * @version:
- * @date: 2018/10/31 16:36
+ * @date: 2018 /10/31 16:36
  * @des:
  * @see {@link https://blog.csdn.net/vbirdbest/article/details/80296136}
  */
-
 public class Tools {
 
     /**
@@ -30,6 +31,9 @@ public class Tools {
 
     private int mNumber;
 
+    /**
+     * Instantiates a new Tools.
+     */
     public Tools() {
 
     }
